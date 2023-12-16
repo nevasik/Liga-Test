@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persons>
+	<person>
+		<FIO>Сидоров Петр Петрович</FIO>
+		<age>33</age>
+		<SNILS>673-231-883 46</SNILS>
+	</person>
+	<person>
+		<FIO>Петров Иван Петрович</FIO>
+		<age>46</age>
+		<SNILS>654-111-222 46</SNILS>
+	</person>
+	<person>
+		<FIO>Головин Николай Анатольевич</FIO>
+		<age>40</age>
+		<SNILS>222-333-444 55</SNILS>
+	</person>
+	<person>
+		<FIO>Сидоров Иван Петрович</FIO>
+		<age>31</age>
+		<SNILS>555-123-332 54</SNILS>
+	</person>
+	<person>
+		<FIO>Головина Елена Анатольевна</FIO>
+		<age>45</age>
+		<SNILS>672-835-290 40</SNILS>
+	</person>
+</persons>
